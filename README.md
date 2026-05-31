@@ -1,79 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,100:000000&text=FEYY&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20•%20Automation%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=FEYY&fontSize=70&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable+systems.;Automating+repetitive+work.;Learning+and+shipping+every+day." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Automation+Engineer;Telegram+Bot+Developer;Always+Learning+New+Things"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=feyyls\&style=for-the-badge\&color=blueviolet)
 
 </div>
 
 ---
 
-# $ whoami
+## ⚡ About Me
 
-```bash
-Name     : Feyy
-Role     : Backend Developer
-Location : Malaysia
-Focus    : Automation, APIs, Self-hosted Services
+```yaml
+name: Feyy
+role: Backend Developer
+
+focus:
+  - Automation
+  - Telegram Bots
+  - APIs
+  - Backend Systems
+
+currently_learning:
+  - System Design
+  - Cloud Infrastructure
 ```
 
 ---
 
-# $ tech-stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,mysql,git,linux,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,mysql,git,github,linux,docker,vscode&perline=5" />
 
 </div>
 
 ---
 
-# $ github-stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=feyyls&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyyls&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyls&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyls&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# $ activity
+## 🔥 Streak Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=feyyls&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=feyyls&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# $ contribution-snake
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/feyyls/feyyls/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=feyyls&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# $ philosophy
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feyyls&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ```txt
-Build.
-Improve.
-Automate.
-Repeat.
+Build • Learn • Improve • Repeat
 ```
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=feyyls\&style=for-the-badge)
 
 </div>
