@@ -1,78 +1,72 @@
 <div align="center">
 
-# FEYY
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,100:000000&text=FEYY&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20•%20Automation%20Engineer&descAlignY=58"/>
 
-```txt
-Backend Developer • Automation Engineer • Problem Solver
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+things+that+work.;Automating+repetitive+tasks.;Learning+something+new+every+day." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable+systems.;Automating+repetitive+work.;Learning+and+shipping+every+day." />
 
 </div>
 
 ---
 
-## /about
+# $ whoami
 
-```yaml
-name: Feyy
-role: Backend Developer
-location: Malaysia
-focus:
-  - Automation
-  - Telegram Bots
-  - APIs
-  - Self Hosted Services
-
-currently_learning:
-  - System Design
-  - Cloud Infrastructure
+```bash
+Name     : Feyy
+Role     : Backend Developer
+Location : Malaysia
+Focus    : Automation, APIs, Self-hosted Services
 ```
 
 ---
 
-## /stack
+# $ tech-stack
 
-```txt
-Languages
-├── JavaScript
-├── Python
-└── SQL
+<div align="center">
 
-Backend
-├── Node.js
-├── Express
-└── REST API
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,mysql,git,linux,docker,vscode&theme=dark"/>
 
-Database
-├── MongoDB
-└── MySQL
-
-Tools
-├── Git
-├── Linux
-├── PM2
-└── Docker
-```
+</div>
 
 ---
 
-## /stats
+# $ github-stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyls&layout=compact&hide_border=true&bg_color=00000000" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyls&layout=compact&hide_border=true&bg_color=00000000" />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=feyyls&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyls&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## /philosophy
+# $ activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feyyls&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# $ contribution-snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/feyyls/feyyls/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# $ philosophy
 
 ```txt
-Write code.
-Break things.
-Fix things.
-Learn things.
+Build.
+Improve.
+Automate.
 Repeat.
 ```
 
@@ -80,6 +74,6 @@ Repeat.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square)
+![](https://komarev.com/ghpvc/?username=feyyls\&style=for-the-badge)
 
 </div>
