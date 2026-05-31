@@ -1,60 +1,85 @@
-# 👋 Hey, I'm Feyy
+<div align="center">
+
+# FEYY
 
 ```txt
-Name     : Feyy
-Role     : Developer
-Status   : Online
-Location : Somewhere in the void
+Backend Developer • Automation Engineer • Problem Solver
 ```
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+things+that+work.;Automating+repetitive+tasks.;Learning+something+new+every+day." />
 
-- 🌙 Night shift developer
-- 💻 Building Telegram bots and web projects
-- ⚡ Interested in automation and scripting
-- 🚀 Always learning new things
+</div>
 
-## Tech Stack
+---
 
-```txt
-JavaScript
-Node.js
-HTML
-CSS
-Git
-```
+## /about
 
-## Current Status
+```yaml
+name: Feyy
+role: Backend Developer
+location: Malaysia
+focus:
+  - Automation
+  - Telegram Bots
+  - APIs
+  - Self Hosted Services
 
-```bash
-$ whoami
-feyy
-
-$ current_focus
-telegram bots
-automation
-web development
-
-$ status
-online
-```
-
-## Projects
-
-- 🤖 Telegram Bots
-- 🌐 Web Development
-- ⚙️ Automation Tools
-- 📦 Open Source Experiments
-
-## Contact
-
-```txt
-Telegram : @pepeeyyyyyyyy
-GitHub   : @feyyls
+currently_learning:
+  - System Design
+  - Cloud Infrastructure
 ```
 
 ---
 
+## /stack
+
 ```txt
-Code. Build. Improve. Repeat.
+Languages
+├── JavaScript
+├── Python
+└── SQL
+
+Backend
+├── Node.js
+├── Express
+└── REST API
+
+Database
+├── MongoDB
+└── MySQL
+
+Tools
+├── Git
+├── Linux
+├── PM2
+└── Docker
 ```
+
+---
+
+## /stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=00000000"/>
+</p>
+
+---
+
+## /philosophy
+
+```txt
+Write code.
+Break things.
+Fix things.
+Learn things.
+Repeat.
+```
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square)
+
+</div>
