@@ -41,33 +41,11 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyyls&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyls&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=feyyls&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=feyyls&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
